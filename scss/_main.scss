@@ -1,3 +1,32 @@
 .review {
 	background: url(../img/bg\ avatar.svg);
+	height: 700px;
+
+	.trailer {
+		width: 200px;
+		height: 50px;
+		margin-top: 23%;
+		margin-left: 43%;
+		background-color: #0b0e66;
+		color: #26c7ea;
+		font-family: HeadlandOne;
+	}
+}
+
+.angel {
+	h1 {
+		width: 797px;
+		height: 44px;
+		margin-left: 251px;
+	}
+	p {
+		width: 142px;
+		height: 29px;
+		margin-left: 620px;
+	}
+	img {
+		width: 400px;
+		height: 120px;
+		margin-left: 480px;
+	}
 }
