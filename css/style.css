@@ -140,8 +140,8 @@ table {
 .review .trailer {
   width: 220px;
   height: 60px;
-  margin-top: 23%;
-  margin-left: 43%;
+  margin-top: 310px;
+  margin-left: 550px;
   background-color: #0b0e66;
   color: #26c7ea;
   font-family: "HeadlandOne";
@@ -163,6 +163,7 @@ table {
   height: 92px;
   margin: 0 auto;
   text-align: center;
+  padding-top: 79px;
 }
 .angel p {
   width: 142px;
@@ -170,11 +171,13 @@ table {
   margin: 0 auto;
   font-size: 24px;
   line-height: 29px;
+  padding-top: 16px;
 }
 .angel img {
   width: 400px;
   height: 120px;
   margin-left: 480px;
+  padding-top: 8px;
 }
 
 .modal {
