@@ -61,10 +61,17 @@
 
 	transform: translate(-50%, -50%);
 
+	i {
+		width: 14px;
+		height: 14px;
+		margin-top: 16px;
+		margin-left: 570px;
+	}
+
 	.modalForm {
 		display: flex;
 		flex-direction: column;
-		margin-top: 113px;
+		margin-top: 75px;
 		margin-left: 80px;
 
 		p {
@@ -82,7 +89,7 @@
 		button {
 			width: 260px;
 			height: 80px;
-			margin-top: 39px;
+			margin-top: 35px;
 			margin-left: 90px;
 
 			background-color: #0b0e66;

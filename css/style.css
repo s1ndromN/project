@@ -191,10 +191,16 @@ table {
   top: 50%;
   transform: translate(-50%, -50%);
 }
+.modal i {
+  width: 14px;
+  height: 14px;
+  margin-top: 16px;
+  margin-left: 570px;
+}
 .modal .modalForm {
   display: flex;
   flex-direction: column;
-  margin-top: 113px;
+  margin-top: 75px;
   margin-left: 80px;
 }
 .modal .modalForm p {
@@ -210,7 +216,7 @@ table {
 .modal .modalForm button {
   width: 260px;
   height: 80px;
-  margin-top: 39px;
+  margin-top: 35px;
   margin-left: 90px;
   background-color: #0b0e66;
   color: #26c7ea;
