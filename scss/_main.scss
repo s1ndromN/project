@@ -1,5 +1,6 @@
 .review {
-	background: url(../img/bg\ avatar.svg);
+	background-image: url(../img/bg\ avatar.svg);
+	width: 1360px;
 	height: 700px;
 
 	.trailer {
@@ -61,17 +62,21 @@
 	transform: translate(-50%, -50%);
 
 	.modalForm {
-		width: 440px;
-		height: 40px;
-
 		display: flex;
 		flex-direction: column;
-		margin-top: 140px;
+		margin-top: 113px;
 		margin-left: 80px;
 
 		p {
 			color: #0b0e66;
 			font-family: "Inter";
+			font-size: 24px;
+			line-height: 29px;
+		}
+
+		.item {
+			width: 440px;
+			height: 40px;
 		}
 
 		button {
